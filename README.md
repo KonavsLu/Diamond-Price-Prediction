@@ -18,7 +18,6 @@ The workflow included:
 
 Results showed that XGBoost outperformed other models, highlighting its strength in capturing non-linear relationships and delivering high accuracy.
 
-
 📌 Conclusion
 Among all the models tested, the XGBoost Regressor delivered the best performance in predicting diamond prices. It achieved an impressive R² score of 0.9830, significantly outperforming other models including Linear Regression, SVR, Random Forest, and Neural Network. This result demonstrates the strength of ensemble learning methods—especially XGBoost—in capturing complex relationships between features and target values in structured datasets.
 
