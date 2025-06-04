@@ -5,7 +5,7 @@ This project focuses on predicting diamond prices based on their physical attrib
 
 This project aims to predict diamond prices using various supervised learning algorithms. The dataset consists of over 53,940 diamond entries with features such as carat, cut, color, clarity, depth, table, and physical dimensions (x, y, z). The main objective was to build regression models that can accurately estimate the price of a diamond based on these features.
 
-DATA 
+
 The dataset used in this project is sourced from , https://www.kaggle.com/datasets/shivam2503/diamonds/data containing information on approximately 54,000 diamonds with various attributes and prices. 
 
 The workflow included:
