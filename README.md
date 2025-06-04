@@ -1,2 +1,3 @@
 # Diamond-Price-Prediction
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. There are 10 attributes included in the dataset including the target price.
+This project focuses on predicting diamond prices based on their physical attributes using various machine learning models. Throughout the process, data preprocessing, feature engineering, and outlier removal techniques were applied to improve model accuracy. Multiple models—including linear regression, support vector regression, random forest, XGBoost, and a neural network—were trained and compared. The final results highlight the performance of each model, showing that ensemble and deep learning methods can provide highly accurate price estimations.
